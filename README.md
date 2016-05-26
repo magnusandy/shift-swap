@@ -7,5 +7,3 @@ cmpt 370 project
 [Minutes](https://github.com/knames/shift-swap/wiki/minutes)
 
 
-
-ITS ME ANDREW! IM MESSING WITH THIS FILE! LOOK AT ME GO!
